@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: cursive;
+}
+
+h1{
+  margin-top: 50px;
+  font-size: 5.625rem;
+  color: salmon;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+
+.top-content{
+  background-color:#E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-content{
+  font-family: cursive;
+}
+.bot-content{
+
+}
+.profile-pic{
+  width:250px;
+}
+.web-pic{
+  width: 20%;
+  float: left;
+  padding-right: 30px;
+  padding-bottom: 50px;
+
+}
+.work-pic{
+  width: 20%;
+  float: right;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bot-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.mid-cloud{
+  position: absolute;
+  top: 270px;
+  left: auto;
+}
+.skill-row{
+  width: 50%;
+  position: relative;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  font-size: 1.2rem;
+}
