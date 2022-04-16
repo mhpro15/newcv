@@ -97,6 +97,9 @@ hr{
    background-color: #EAF6F6;
    color: salmon;
  }
+.btn:hover{
+   background-color: #EAF6F6;
+   color: #66BFBF;
 .credit{
   color: #EAF6F6;
 }
