@@ -21,7 +21,10 @@ h3{
 a{
   color: #11999E;
 }
-
+.intro{
+  width: 30%;
+  margin: auto;
+}
 .top-content{
   background-color:#E4F9F5;
   position: relative;
@@ -35,12 +38,7 @@ a{
   background-color: #66BFBF;
   padding: 20px 0 20px 0;
 }
-.footer-link{
-  color: #FAFDD6;
-  text-decoration: none;
-  padding: 5px;
-  font-size: 1.5rem;
-}
+
 .profile-pic{
   width:250px;
 }
@@ -94,13 +92,18 @@ hr{
    margin-top: 20px;
  }
 
- .btn:active {
-   background-color: #EAF6F6;
-   color: salmon;
- }
 .btn:hover{
    background-color: #EAF6F6;
    color: #66BFBF;
+}
+.footer-link{
+  color: #FAFDD6;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 1.5rem;
+}
+.footer-link:hover{
+  color: salmon;
 }
 .credit{
   color: #EAF6F6;
