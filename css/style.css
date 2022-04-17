@@ -69,7 +69,7 @@ a{
   left: auto;
 }
 .skill-row{
-  width: 50%;
+  width: 45%;
   position: relative;
   margin: 100px auto 100px auto;
   text-align: left;
@@ -81,6 +81,7 @@ hr{
   width: 5%;
   border-width: 5px;
   color: #FAFDD6;
+  margin: 100px auto 100px;
 }
  .btn{
    background-color: #66BFBF;
