@@ -29,7 +29,7 @@ a{
 
 }
 .middle-content{
-  font-family: 'Patrick Hand', cursive;
+    margin: 100px auto 100px;
 }
 .bot-content{
   background-color: #66BFBF;
